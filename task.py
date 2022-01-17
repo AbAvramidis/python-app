@@ -1,4 +1,4 @@
 import time
 print('Task starting..')
-time.sleep(7)
-print('Task ended, took 7 seconds')
+time.sleep(5)
+print('Task ended, took 5 seconds')
